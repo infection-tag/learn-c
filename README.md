@@ -11,6 +11,6 @@ If you can, **do not use Windows!**
 
 ## Contents
 
-[Preface](/Preface.md)
-[Chapter One: Basics and Loops](/Chapter\ One\ Basics\ and\ Loops.md)
+[Preface](/Preface.md)  
+[Chapter One: Basics and Loops](/Chapter\ One\ Basics\ and\ Loops.md)  
 [Chapter Two: Data structures](/Chapter\ Two\ Data\ Structures.md)
